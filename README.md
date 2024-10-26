@@ -5,6 +5,7 @@ A four wheeled Robot with differential drive system with manipulator arm on its 
 <p align="center">
   <img src="hand_e.png" alt="Hand-E Robot" width="300"/>
 </p>
+
 ## Project Members
 - Venkata Sai Sricharan Kasturi - UID: 119444788
 - Datta Lohith Gannavarapu - UID: 119455395
