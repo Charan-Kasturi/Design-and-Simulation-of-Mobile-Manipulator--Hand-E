@@ -95,14 +95,14 @@ $ ros2 run hand_e manipulator_teleop.py
 ```
 
 ## Results
-### Task1 
+### Task-1: 
 
 ![Simulation_1](simulation_1.gif) 
 
-### Task2 
+### Task-2: 
 ![Simulation_2](simulation_2.gif) 
 
-### Trajectory 
+### Trajectory:  
 ![Trajectory](Trajectory.gif) 
 
 
